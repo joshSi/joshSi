@@ -1,4 +1,3 @@
-### Hi there, I'm Josh! 🙂
+# Hi there, I'm Josh! [![Alt text](coding.gif)](https://joshSi.com)
 
-[![Joshua Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshsi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joshSi#gh-dark-mode-only)
-[![Joshua Si's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshsi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joshSi#gh-light-mode-only)
+Why do programmers prefer dark 🌙 mode ? Because light 💡 attracts bugs 🐛 😶
